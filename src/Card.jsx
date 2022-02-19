@@ -101,7 +101,7 @@ const Card = ({
           </Col>
           <Col
             md={3}
-            className="d-flex align-items-center justify-content-center"
+            className="d-flex align-items-center justify-content-center p-0"
           >
             <Button onClick={() => passParams(data)}>Click</Button>
           </Col>
