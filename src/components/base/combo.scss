@@ -1,0 +1,23 @@
+.input-combo {
+  margin: 5px;
+
+  span {
+    // padding: 5px 15px;
+  }
+  select {
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid rgb(209, 209, 209);
+    padding: 5px;
+  }
+  .error {
+    padding: 5px 15px;
+    background-color: #f8d7da;
+    color: #721c24;
+    width: 100%;
+    display: block;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+}
